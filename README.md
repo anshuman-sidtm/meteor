@@ -6,5 +6,5 @@ This is a simple first project in Python 3.8 which checks the closest meteor hit
 
 ```
 pipenv install
-pipenv run "python find-meteors.py"
+pipenv run "python /meteor_code/find-meteors.py"
 ```
